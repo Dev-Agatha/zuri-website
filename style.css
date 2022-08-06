@@ -5,13 +5,13 @@
 
 @font-face {
     font-family: graphik;
-    src: url(./font/GraphikLight.otf);
+    src: url(./zuri_files/font/GraphikLight.otf);
 
 }
 
 @font-face {
     font-family: graphikbold;
-    src: url(./font/GraphikMedium.otf);
+    src: url(./zuri_files/font/GraphikMedium.otf);
 }
 
 
