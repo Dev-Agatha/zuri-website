@@ -3,62 +3,6 @@
     padding: 0;
 }
 
-/* 
-
-
-.intro {
-    display:flex;
-    justify-content: space-between;
-    width: 90%;
-    margin: auto;
-    padding: 1em;
-}
-
-.zurilogo{
-    width: 20%;
-}
-
-.intro ul{
-    width: 40%;
-    margin: auto;
-    list-style-type: none;
-    display: flex;
-    justify-content: space-between;
-}
-
-.but{
-    width: 20%;
-    display: flex;
-    justify-content: space-between;
-}
-
-.but a{
-    width: 40%;
-    margin: auto;
-    text-decoration: none;
-    color: white;
-    padding: 0.5em 1em;
-    background-color: red;
-    border-radius: 20px;
-    text-align: right;
-}
-
-.but img{
-    width: 40px;
-    background-color: red;
-    padding: 0.5em;
-    border-radius: 40px;
-    margin-t: -120px;
-    z-index: 1;
-}
-
-.thumbs {
-    width:20%;
-
-}
-
-*/
-
 @font-face {
     font-family: graphik;
     src: url(./font/GraphikLight.otf);
