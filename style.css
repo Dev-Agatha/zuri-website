@@ -6,7 +6,6 @@
 @font-face {
     font-family: graphik;
     src: url(./zuri_files/font/GraphikLight.otf);
-
 }
 
 @font-face {
@@ -354,9 +353,7 @@ hr {
     border-radius: 15px;
     border: none;
     padding:58px 48px 93px 50px;
-
 }
-
 
 .container1 {
     color: white;
@@ -364,18 +361,21 @@ hr {
 
 .container1 h1 {
     font-size: 4em;
-    margin: auto;
 }
 
 .container1 h2 {
     margin-top: 1em;
+    margin-bottom: 2em;
 }
 
 .container1 p {
     font-family:graphikmedium;
-    margin-top:1em;
+    margin-top:2em;
     font-size: 1.3em;
     margin: auto;
 }
+  
+
+
 
 
